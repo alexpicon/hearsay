@@ -1,0 +1,242 @@
+[
+  {
+    "speaker": "Orson Welles",
+    "real": "ITW_18132",
+    "fake": "ITW_26134"
+  },
+  {
+    "speaker": "FDR",
+    "real": "ITW_16540",
+    "fake": "ITW_26381"
+  },
+  {
+    "speaker": "Alan Watts",
+    "real": "ITW_23143",
+    "fake": "ITW_3092"
+  },
+  {
+    "speaker": "The Notorious B.I.G.",
+    "real": "ITW_4852",
+    "fake": "ITW_27588"
+  },
+  {
+    "speaker": "Orson Welles",
+    "real": "ITW_27388",
+    "fake": "ITW_30039"
+  },
+  {
+    "speaker": "Mitch Hedberg",
+    "real": "ITW_8618",
+    "fake": "ITW_29710"
+  },
+  {
+    "speaker": "Mr. Rogers",
+    "real": "ITW_30225",
+    "fake": "ITW_31464"
+  },
+  {
+    "speaker": "The Notorious B.I.G.",
+    "real": "ITW_26161",
+    "fake": "ITW_20693"
+  },
+  {
+    "speaker": "Donald Trump",
+    "real": "ITW_31624",
+    "fake": "ITW_17798"
+  },
+  {
+    "speaker": "Alan Watts",
+    "real": "ITW_2100",
+    "fake": "ITW_5512"
+  },
+  {
+    "speaker": "Alan Watts",
+    "real": "ITW_9362",
+    "fake": "ITW_17816"
+  },
+  {
+    "speaker": "Orson Welles",
+    "real": "ITW_8504",
+    "fake": "ITW_28918"
+  },
+  {
+    "speaker": "Donald Trump",
+    "real": "ITW_4623",
+    "fake": "ITW_28022"
+  },
+  {
+    "speaker": "William F. Buckley",
+    "real": "ITW_6018",
+    "fake": "ITW_9131"
+  },
+  {
+    "speaker": "Louis C.K.",
+    "real": "ITW_6923",
+    "fake": "ITW_5699"
+  },
+  {
+    "speaker": "George W. Bush",
+    "real": "ITW_6034",
+    "fake": "ITW_11894"
+  },
+  {
+    "speaker": "George W. Bush",
+    "real": "ITW_12948",
+    "fake": "ITW_2240"
+  },
+  {
+    "speaker": "JFK",
+    "real": "ITW_1031",
+    "fake": "ITW_4163"
+  },
+  {
+    "speaker": "The Notorious B.I.G.",
+    "real": "ITW_19265",
+    "fake": "ITW_18168"
+  },
+  {
+    "speaker": "Frank Sinatra",
+    "real": "ITW_22471",
+    "fake": "ITW_231"
+  },
+  {
+    "speaker": "JFK",
+    "real": "ITW_31678",
+    "fake": "ITW_24177"
+  },
+  {
+    "speaker": "The Notorious B.I.G.",
+    "real": "ITW_9670",
+    "fake": "ITW_10043"
+  },
+  {
+    "speaker": "Orson Welles",
+    "real": "ITW_9805",
+    "fake": "ITW_14633"
+  },
+  {
+    "speaker": "Nelson Mandela",
+    "real": "ITW_3552",
+    "fake": "ITW_6047"
+  },
+  {
+    "speaker": "Gilbert Gottfried",
+    "real": "ITW_9518",
+    "fake": "ITW_28694"
+  },
+  {
+    "speaker": "Alan Watts",
+    "real": "ITW_15004",
+    "fake": "ITW_25055"
+  },
+  {
+    "speaker": "Mr. Rogers",
+    "real": "ITW_16918",
+    "fake": "ITW_1428"
+  },
+  {
+    "speaker": "William F. Buckley",
+    "real": "ITW_9532",
+    "fake": "ITW_29143"
+  },
+  {
+    "speaker": "Donald Trump",
+    "real": "ITW_13943",
+    "fake": "ITW_23070"
+  },
+  {
+    "speaker": "FDR",
+    "real": "ITW_10823",
+    "fake": "ITW_25241"
+  },
+  {
+    "speaker": "The Notorious B.I.G.",
+    "real": "ITW_12489",
+    "fake": "ITW_2982"
+  },
+  {
+    "speaker": "Donald Trump",
+    "real": "ITW_16379",
+    "fake": "ITW_28786"
+  },
+  {
+    "speaker": "Gilbert Gottfried",
+    "real": "ITW_442",
+    "fake": "ITW_12748"
+  },
+  {
+    "speaker": "Mr. Rogers",
+    "real": "ITW_23980",
+    "fake": "ITW_1559"
+  },
+  {
+    "speaker": "George W. Bush",
+    "real": "ITW_6445",
+    "fake": "ITW_29280"
+  },
+  {
+    "speaker": "Nelson Mandela",
+    "real": "ITW_11630",
+    "fake": "ITW_15853"
+  },
+  {
+    "speaker": "George W. Bush",
+    "real": "ITW_23060",
+    "fake": "ITW_28600"
+  },
+  {
+    "speaker": "FDR",
+    "real": "ITW_27271",
+    "fake": "ITW_31126"
+  },
+  {
+    "speaker": "JFK",
+    "real": "ITW_3046",
+    "fake": "ITW_10614"
+  },
+  {
+    "speaker": "Gilbert Gottfried",
+    "real": "ITW_14230",
+    "fake": "ITW_905"
+  },
+  {
+    "speaker": "George W. Bush",
+    "real": "ITW_22583",
+    "fake": "ITW_24195"
+  },
+  {
+    "speaker": "Nelson Mandela",
+    "real": "ITW_24719",
+    "fake": "ITW_17391"
+  },
+  {
+    "speaker": "Gilbert Gottfried",
+    "real": "ITW_1331",
+    "fake": "ITW_318"
+  },
+  {
+    "speaker": "Alan Watts",
+    "real": "ITW_18174",
+    "fake": "ITW_28871"
+  },
+  {
+    "speaker": "Louis C.K.",
+    "real": "ITW_5438",
+    "fake": "ITW_9016"
+  },
+  {
+    "speaker": "JFK",
+    "real": "ITW_27646",
+    "fake": "ITW_21965"
+  },
+  {
+    "speaker": "Frank Sinatra",
+    "real": "ITW_13856",
+    "fake": "ITW_1575"
+  },
+  {
+    "speaker": "Orson Welles",
+    "real": "ITW_25876",
+    "fake": "ITW_9249"
+  }
+]
