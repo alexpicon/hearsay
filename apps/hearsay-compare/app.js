@@ -95,6 +95,7 @@ let sampleCatalog = [], visibleSamples = [];
 function currentSample() { return visibleSamples.find(s => s.id === $('sample-select').value); }
 function showSample() {
   const sample = currentSample();
+  window.hearsayPortrait('sample-portrait', sample?.title);
   $('sample-use').disabled = !sample;
   $('sample-download').hidden = !sample;
   if (!sample) {

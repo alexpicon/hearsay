@@ -27,6 +27,7 @@
     clips = shuffled([catalog.get(pair.real), catalog.get(pair.fake)]);
     answered = false; heard = new Set();
     el('game-name').textContent = pair.speaker;
+    window.hearsayPortrait('game-portrait', pair.speaker);
     el('game-progress').textContent = `Pair ${position} of ${deck.length} in this shuffled deck · A/B order is randomized`;
     ['a','b'].forEach((side, index) => {
       const audio = el(`game-${side}`); audio.pause(); audio.src = clips[index].file;

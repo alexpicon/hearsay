@@ -1,0 +1,142 @@
+{
+  "Alan Watts": {
+    "file": "portraits/alan-watts.jpg",
+    "person": "Alan Watts",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alan_Watts",
+    "source": "https://commons.wikimedia.org/wiki/File:Alan_Watts_UVM_15_June_1958_Hon._D.D_(cropped).jpg",
+    "artist": "The University of Vermont Alumni Magazine vol. 39 no. 01, p. 22.",
+    "credit": "UVM Digital Collections",
+    "license": "Public domain",
+    "license_url": ""
+  },
+  "Donald Trump": {
+    "file": "portraits/donald-trump.jpg",
+    "person": "Donald Trump",
+    "wikipedia": "https://en.wikipedia.org/wiki/Donald_Trump",
+    "source": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+    "artist": "Daniel Torok",
+    "credit": "White HouseFacebook",
+    "license": "Public domain",
+    "license_url": ""
+  },
+  "FDR": {
+    "file": "portraits/fdr.jpg",
+    "person": "Franklin D. Roosevelt",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
+    "source": "https://commons.wikimedia.org/wiki/File:FDR-1944-Campaign-Portrait_(3x4_retouched,_cropped).jpg",
+    "artist": "Leon Perskie",
+    "credit": "Flickr (FDR Presidential Library & Museum) \u2013 Info \u2013 Pic",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "Frank Sinatra": {
+    "file": "portraits/frank-sinatra.jpg",
+    "person": "Frank Sinatra",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frank_Sinatra",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_Sinatra_(1957_studio_portrait_close-up).jpg",
+    "artist": "Photograph by Capitol Records, per a credit found in the 1959 edition of the International Celebrity Register at page 696. No known source credits an individual photographer.",
+    "credit": "*Original source: DownBeat (November 28, 1957), page 15, appears to be the earliest publication. More of the photograph was shown in the 1959 publicity version. See \"other versions\" below.\nImmediate source: Scan via a tweet posted by The Hollywood Reporter on January 19, 2018. Cropped to include only the portions of the photograph disclosed by the \"keybook\" version. Retouched by uploader.",
+    "license": "Public domain",
+    "license_url": ""
+  },
+  "George W. Bush": {
+    "file": "portraits/george-w-bush.jpeg",
+    "person": "George W. Bush",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_W._Bush",
+    "source": "https://commons.wikimedia.org/wiki/File:George-W-Bush.jpeg",
+    "artist": "Eric Draper",
+    "credit": "This image was released by the United States Department of Defense with the ID 030114-O-0000D-001_screen (next).\nThis tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.\n\n\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629\u00a0\u2219 \u09ac\u09be\u0982\u09b2\u09be\u00a0\u2219 \nBahasa Indonesia\u00a0\u2219 \nBahaso Jambi\u00a0\u2219 \nDeutsch\u00a0\u2219 Deutsch (Sie-Form)\u00a0\u2219 English\u00a0\u2219 espa\u00f1ol\u00a0\u2219 euskara\u00a0\u2219 \u0641\u0627\u0631\u0633\u06cc\u00a0\u2219 fran\u00e7ais\u00a0\u2219 italiano\u00a0\u2219 \u65e5\u672c\u8a9e\u00a0\u2219 \ud55c\uad6d\uc5b4\u00a0\u2219 \u043c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438\u00a0\u2219 \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02\u00a0\u2219 Plattd\u00fc\u00fctsch\u00a0\u2219 Nederlands\u00a0\u2219 polski\u00a0\u2219 \u067e\u069a\u062a\u0648\u00a0\u2219 portugu\u00eas\u00a0\u2219 \u0440\u0443\u0441\u0441\u043a\u0438\u0439\u00a0\u2219 sloven\u0161\u010dina\u00a0\u2219 svenska\u00a0\u2219 T\u00fcrk\u00e7e\u00a0\u2219 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\u00a0\u2219 \u7b80\u4f53\u4e2d\u6587\u00a0\u2219 \u7e41\u9ad4\u4e2d\u6587\u00a0\u2219 +/\u2212",
+    "license": "Public domain",
+    "license_url": ""
+  },
+  "Gilbert Gottfried": {
+    "file": "portraits/gilbert-gottfried.jpg",
+    "person": "Gilbert Gottfried",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gilbert_Gottfried",
+    "source": "https://commons.wikimedia.org/wiki/File:Gilbert_Gottfried_(49732474471).jpg",
+    "artist": "Super Festivals from Ft. Lauderdale, USA",
+    "credit": "80301200282",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "JFK": {
+    "file": "portraits/jfk.jpg",
+    "person": "John F. Kennedy",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_F._Kennedy",
+    "source": "https://commons.wikimedia.org/wiki/File:John_F._Kennedy,_White_House_color_photo_portrait.jpg",
+    "artist": "Cecil W. Stoughton",
+    "credit": "This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.",
+    "license": "Public domain",
+    "license_url": ""
+  },
+  "Louis C.K.": {
+    "file": "portraits/louis-c-k.png",
+    "person": "Louis C.K.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Louis_C.K.",
+    "source": "https://commons.wikimedia.org/wiki/File:Louis_C.K._on_Your_Moms_House_Podcast_2022.png",
+    "artist": "YMH Studios",
+    "credit": "YouTube: https://www.youtube.com/watch?v=SpPHbZzDEO4&ab_channel=YMHStudios \u2013 View/save archived versions on archive.org",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "Mitch Hedberg": {
+    "file": "portraits/mitch-hedberg.jpg",
+    "person": "Mitch Hedberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mitch_Hedberg",
+    "source": "https://en.wikipedia.org/wiki/File:Mitch_Hedberg.jpg",
+    "artist": "Susan Maljan",
+    "credit": "Original publication: http://maljan.com/portraits/f4hdw05ilxp4bj3hgs835zgojldt6f\nImmediate source: http://www.oxygen.ie/mitch-hedberg-a-tribute/",
+    "license": "Fair use",
+    "license_url": ""
+  },
+  "Mr. Rogers": {
+    "file": "portraits/mr-rogers.jpg",
+    "person": "Fred Rogers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fred_Rogers",
+    "source": "https://commons.wikimedia.org/wiki/File:Fred-Rogers_1988_(full)_(cropped).jpg",
+    "artist": "Family Communications, Inc.",
+    "credit": "Csuitespotlight, info from Neighborhood archive",
+    "license": "Public domain",
+    "license_url": ""
+  },
+  "Nelson Mandela": {
+    "file": "portraits/nelson-mandela.jpg",
+    "person": "Nelson Mandela",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nelson_Mandela",
+    "source": "https://commons.wikimedia.org/wiki/File:Nelson_Mandela_1994.jpg",
+    "artist": "Kingkongphoto & www.celebrity-photos.com from Laurel",
+    "credit": "Flickr: NELSON MANDELA",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "Orson Welles": {
+    "file": "portraits/orson-welles.jpg",
+    "person": "Orson Welles",
+    "wikipedia": "https://en.wikipedia.org/wiki/Orson_Welles",
+    "source": "https://commons.wikimedia.org/wiki/File:Orson_Welles_1937_cr3-4.jpg",
+    "artist": "Carl Van Vechten",
+    "credit": "This image  is available from the United States Library of Congress's Prints and Photographs division under the digital ID van.5a52776.This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.",
+    "license": "Public domain",
+    "license_url": ""
+  },
+  "The Notorious B.I.G.": {
+    "file": "portraits/the-notorious-b-i-g.jpg",
+    "person": "The Notorious B.I.G.",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Notorious_B.I.G.",
+    "source": "https://en.wikipedia.org/wiki/File:Biggie_Smalls_1997.jpg",
+    "artist": "Lori Shepler / Los Angeles Times (presumed)",
+    "credit": "Original publication: Most likely from a 1997 photoshoot by Lori Shepler for the Los Angeles Times, see similar photos here and here.\nImmediate source: https://64.media.tumblr.com/d9adf524a316cd129b213360abf650f5/962583c37aca4bf3-74/s2048x3072/d196c88b75e807af382ee3276914e28413fc020b.jpg",
+    "license": "Fair use",
+    "license_url": ""
+  },
+  "William F. Buckley": {
+    "file": "portraits/william-f-buckley.jpg",
+    "person": "William F. Buckley Jr.",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_F._Buckley_Jr.",
+    "source": "https://commons.wikimedia.org/wiki/File:William_F._Buckley,_Jr._Public_Domain_(cropped).jpg",
+    "artist": "Unknown photographer",
+    "credit": "\"William F. Buckley Jr., The Art of Fiction No. 146\" in The Paris Review.\n\nhttps://www.theparisreview.org/interviews/1395/the-art-of-fiction-no-146-william-f-buckley-jr\nThe photograph was originally published online by Reuters/National Review in 2008 and guaranteed free non-commercial use; further information can be seen in the metadata. However, as a handout photo originally, it almost certainly emerged in the 1970s with no evident copyright notice, hence the chosen licensing information.",
+    "license": "Public domain",
+    "license_url": ""
+  }
+}
