@@ -1,0 +1,22 @@
+# Author: Alex Picon <alexnpc@me.com>
+[Unit]
+Description=HEARSAY web application
+After=network-online.target docker.service
+Requires=docker.service
+[Service]
+Type=simple
+User=hearsay
+Group=hearsay
+SupplementaryGroups=docker
+WorkingDirectory=/opt/hearsay
+ExecStart=/opt/hearsay/.venv/bin/uvicorn server.main:app --host 127.0.0.1 --port 8888 --proxy-headers --forwarded-allow-ips=127.0.0.1
+Restart=always
+RestartSec=3
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/opt/hearsay/_internal
+[Install]
+WantedBy=multi-user.target

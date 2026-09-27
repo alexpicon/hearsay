@@ -1,0 +1,13 @@
+# Author: Alex Picon <alexnpc@me.com>
+[project]
+name = "hearsay-web"
+version = "0.1.0"
+description = "Standalone offline HEARSAY detection and comparison application"
+authors = [{name = "Alexander Picon", email = "alexnpc@me.com"}]
+requires-python = ">=3.12"
+dependencies = ["fastapi>=0.115,<1", "uvicorn[standard]>=0.34,<1"]
+[project.optional-dependencies]
+analysis = ["numpy>=2.2", "scipy>=1.15", "scikit-learn>=1.6", "soundfile>=0.13", "pyarrow>=25", "matplotlib>=3.10"]
+
+[dependency-groups]
+dev = ["httpx>=0.28,<1", "pytest>=8,<10"]

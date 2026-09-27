@@ -1,0 +1,13 @@
+# Author: Alex Picon <alexnpc@me.com>
+**
+!pyproject.toml
+!uv.lock
+!README.md
+!hearsay/
+!hearsay/**
+!forensics/
+!forensics/**
+!models/
+!models/detector.joblib
+**/__pycache__/
+**/*.pyc

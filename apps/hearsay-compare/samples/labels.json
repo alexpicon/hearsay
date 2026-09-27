@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "024131e52e33805c9c2a540863ab8175487411dabc8fbf1f4adf7c2f6e826d94.flac",
+    "dataset": "asvspoof_la_eval",
+    "label": "0",
+    "source_id": "la19/test/LA_E_9102181",
+    "speaker": "LA_0012",
+    "generator": "bonafide",
+    "sha256": "ccade4e2b860f2aec079981a0539cf153e64e48c7d47c4a73e243a6c32b5cf8c",
+    "download": "real-1.flac",
+    "seconds": 3.37,
+    "bytes": 58129
+  },
+  {
+    "filename": "02519da00686dc209748068bd614a94760feb4287f9a21a73ddbf61aa92a8f63.flac",
+    "dataset": "asvspoof_la_eval",
+    "label": "0",
+    "source_id": "la19/test/LA_E_4936594",
+    "speaker": "LA_0061",
+    "generator": "bonafide",
+    "sha256": "1e8991ab9f9883a74d4acea777b0ed2d1fe2b65ed3985a891e57140098913adb",
+    "download": "real-2.flac",
+    "seconds": 3.41,
+    "bytes": 58934
+  },
+  {
+    "filename": "01032881957fd101a0e8b95d4855f982c16393ca75993d6b462b3b7fe4883faa.flac",
+    "dataset": "asvspoof_la_eval",
+    "label": "1",
+    "source_id": "la19/test/LA_E_8970871",
+    "speaker": "LA_0035",
+    "generator": "A17",
+    "sha256": "0f5c074bc5303e411e62e0c17ac8ab06e82b809a19cc780dc3aefd6ac4ccb32e",
+    "download": "synthetic-1.flac",
+    "seconds": 2.94,
+    "bytes": 51742
+  },
+  {
+    "filename": "011847db8289474d9ff1585b5b09e52eddd5a4f74dda382d631cd5c31fe54458.flac",
+    "dataset": "asvspoof_la_eval",
+    "label": "1",
+    "source_id": "la19/test/LA_E_9760280",
+    "speaker": "LA_0041",
+    "generator": "A19",
+    "sha256": "1b4adbc5e0592fa6baf4887bbcc87797e3d94a88e15a9f33a0510f5775302c55",
+    "download": "synthetic-2.flac",
+    "seconds": 2.29,
+    "bytes": 38301
+  }
+]

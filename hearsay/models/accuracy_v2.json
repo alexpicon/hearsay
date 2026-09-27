@@ -1,0 +1,23 @@
+{
+  "name": "fusion_C0.1",
+  "weights": [
+    0.2701924134028898,
+    0.15064685852302329
+  ],
+  "intercept": -0.718631870417834,
+  "author": "Alex Picon <alexnpc@me.com>",
+  "version": "accuracy-broad-20260927",
+  "decision_threshold_logit": 0.9212450941180541,
+  "original_logit_epsilon": 1e-06,
+  "df_model": "Speech-Arena-2025/DF_Arena_500M_V_1",
+  "df_revision": "8258fa8e74ff9b8ad20d4c939c1a7f694a6e4080",
+  "xlsr_revision": "1a640f32ac3e39899438a2931f9924c02f080a54",
+  "output": "sigmoid(selected_logit - frozen_validation_threshold); decision score, not calibrated probability",
+  "manifest_sha256": "5f211defc40beb0f6fcc978328eb300803e15bd98ff6f5e9efe9b2855b2a85e3",
+  "score_sha256": "957261a2092af7896ed412dab40bd3c0bd39e61575a77a787587bd20475643b0",
+  "license_notice": "DF-Arena is restricted to research/non-commercial use. See pinned upstream LICENSE.txt.",
+  "promotion_gate_passed": true,
+  "deployment_enabled": true,
+  "evaluation_sha256": "978c8efffa1b16975a19785b6854abd207ee36f8594a85b54aeb7f864e91648f",
+  "runtime_parity_max_delta": 2.305103232180805e-06
+}

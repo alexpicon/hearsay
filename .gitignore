@@ -1,0 +1,15 @@
+# Author: Alex Picon <alexnpc@me.com>
+.env
+.env.*
+!.env.example
+_internal/
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+*.log
+*.pem
+*.key
+hearsay/dist/
+hearsay/build/
