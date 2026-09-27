@@ -1,0 +1,64 @@
+{
+  "author": "Alex Picon <alexnpc@me.com>",
+  "model": "HEARSAY Accuracy",
+  "generated_date": "2026-09-27",
+  "rows": 1671,
+  "columns": [
+    "filename",
+    "cm-score"
+  ],
+  "score_direction": "0=real, 1=synthetic",
+  "format_valid": true,
+  "template_order_preserved": true,
+  "missing_files": 0,
+  "duplicate_files": 0,
+  "nonfinite_scores": 0,
+  "substituted_scores": 0,
+  "score_min": 0.005948625871685084,
+  "score_max": 0.9062456297297349,
+  "submission_sha256": "a508f6a551bcfd848b1f77e87e1e5d16838659f372abcef43ebf5942e5449358",
+  "template_sha256": "312c8c9b4781cccfde6cec64ffbe7a868d2d68c4ed564caa60bdc52ed6d603b7",
+  "candidate_sha256": "aab7b630820000b21d7dd2039959a3ac4d7baee0de35cd38d3ea3536135735dd",
+  "runtime_sha256": "b86adee134973097a424b19ff6be3cdd0b468e54454f082611d53a01e912eadb",
+  "input_manifest_sha256": "c84b2a8cb02b17cddd0699b26d565ee0736f471a3c16a9cad22d4fa5262ea4cf",
+  "execution_note": "Execution seconds cover the resumed batch; 84 earlier scores were retained unchanged.",
+  "execution": {
+    "seconds": 790.511500120163,
+    "image": "sha256:aa60dbf47347e6ead1ec8b1a0832d6b1d92b37021f997c244f2655e3c35333e2",
+    "template_sha256": "312c8c9b4781cccfde6cec64ffbe7a868d2d68c4ed564caa60bdc52ed6d603b7",
+    "rows": 1671
+  },
+  "original_submission_sha256": "7b58c100690532e07e938cc19cd26465757c3b71a211a7efca23c35be5b1a89e",
+  "coverage": "Up to three evenly spaced 4.0375-second windows combined with the original detector feature path; does not analyze every instant of long recordings.",
+  "accuracy": "Unknown on the hidden challenge set; validation here checks format and coverage, not correctness.",
+  "independent_validation": {
+    "valid": true,
+    "rows": 1671,
+    "original_preserved": true,
+    "input_hashes_verified": true
+  },
+  "resident_parity": {
+    "passed": true,
+    "tolerance": 5e-05,
+    "checks": [
+      {
+        "filename": "HGT1013455.wav",
+        "batch": 0.024385711844000284,
+        "resident": 0.024385711844000284,
+        "absolute_difference": 0.0
+      },
+      {
+        "filename": "HGT9998236.wav",
+        "batch": 0.03713561757655113,
+        "resident": 0.03713561757655113,
+        "absolute_difference": 0.0
+      },
+      {
+        "filename": "HGT8180390.wav",
+        "batch": 0.041610064696304315,
+        "resident": 0.041610064696304315,
+        "absolute_difference": 0.0
+      }
+    ]
+  }
+}

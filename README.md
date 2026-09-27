@@ -33,3 +33,6 @@ credits are in [MODEL_CREDITS.md](apps/hearsay-compare/MODEL_CREDITS.md).
 ```sh
 uv run python -m unittest discover -s tests -p test_hearsay_compare.py -v
 ```
+
+The complete Accuracy prediction export and validation notes are available in
+[hearsay/submissions/](hearsay/submissions/README.md).
