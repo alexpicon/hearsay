@@ -89,3 +89,48 @@ fetch(API + '/models').then(r => r.json()).then(data => {
   modelsReady = true; updateMode();
 }).catch(() => { $('message').textContent = 'Could not load detector list. Retry after the server is available.'; });
 setInterval(() => { if (unlocked && $('key').value) refresh(); }, 2000);
+
+// The catalog supplies labels and provenance only; every score is computed fresh.
+let sampleCatalog = [], visibleSamples = [];
+function currentSample() { return visibleSamples.find(s => s.id === $('sample-select').value); }
+function showSample() {
+  const sample = currentSample();
+  $('sample-use').disabled = !sample;
+  $('sample-download').hidden = !sample;
+  if (!sample) {
+    $('sample-player').removeAttribute('src'); $('sample-player').load();
+    $('sample-details').textContent = 'No recordings match your search.'; return;
+  }
+  $('sample-player').src = sample.file;
+  $('sample-download').href = sample.file;
+  $('sample-details').replaceChildren(document.createTextNode(`${sample.title} · ${sample.label === 'real' ? 'Real' : 'Synthetic'} · ${sample.duration.toFixed(2)} seconds · ${sample.collection} · `));
+  const source = node('a', 'Dataset source'); source.href = sample.source;
+  source.target = '_blank'; source.rel = 'noopener noreferrer'; $('sample-details').append(source);
+}
+function filterSamples() {
+  const query = $('sample-search').value.trim().toLowerCase();
+  visibleSamples = sampleCatalog.filter(s => `${s.title} ${s.label} ${s.collection} ${s.id}`.toLowerCase().includes(query));
+  $('sample-select').replaceChildren(...visibleSamples.map(s => {
+    const option = node('option', `${s.title} — ${s.label === 'real' ? 'Real' : 'Synthetic'} (${s.id})`); option.value = s.id; return option;
+  }));
+  $('sample-select').disabled = !visibleSamples.length; showSample();
+}
+$('sample-search').addEventListener('input', filterSamples);
+$('sample-select').addEventListener('change', showSample);
+$('sample-use').addEventListener('click', async () => {
+  const sample = currentSample(); if (!sample) return;
+  $('sample-use').disabled = true; $('sample-status').textContent = 'Loading recording…';
+  try {
+    const response = await fetch(sample.file);
+    if (!response.ok) throw new Error('Could not load recording. Please retry.');
+    const transfer = new DataTransfer();
+    transfer.items.add(new File([await response.blob()], `${sample.title.replace(/[^a-z0-9 -]/gi, '')}-${sample.label}-${sample.id}.mp3`, {type:'audio/mpeg'}));
+    $('audio').files = transfer.files; $('expected').value = sample.label;
+    $('sample-status').textContent = `${sample.title} (${sample.label}) selected. Enter your access code, choose a mode, then click Run.`;
+    $('form').scrollIntoView({behavior:'smooth', block:'start'});
+  } catch (error) { $('sample-status').textContent = error.message; }
+  finally { $('sample-use').disabled = !currentSample(); }
+});
+fetch('samples/library/catalog.json').then(r => { if (!r.ok) throw new Error(); return r.json(); })
+  .then(data => { sampleCatalog = data; filterSamples(); })
+  .catch(() => { $('sample-status').textContent = 'Could not load the library. Reload to retry; file uploads are still available.'; });

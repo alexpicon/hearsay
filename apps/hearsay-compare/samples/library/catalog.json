@@ -1,0 +1,1222 @@
+[
+  {
+    "id": "ITW_1031",
+    "title": "JFK",
+    "label": "real",
+    "duration": 2.85,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_1031.mp3",
+    "sha256": "04173d39b95712b2f500a35ee0b092710df81df4df562073f138bcdd48b8cc78"
+  },
+  {
+    "id": "ITW_27646",
+    "title": "JFK",
+    "label": "real",
+    "duration": 5.47,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_27646.mp3",
+    "sha256": "46c77bb35233523cf1b2fefd258143fa6f702f9dafd35e49660d2de119f37846"
+  },
+  {
+    "id": "ITW_3046",
+    "title": "JFK",
+    "label": "real",
+    "duration": 2.85,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_3046.mp3",
+    "sha256": "38f909dc0be4d6d858ecc4417c53f58d78488f895f45d9ae4d15be868cf5fcf1"
+  },
+  {
+    "id": "ITW_31678",
+    "title": "JFK",
+    "label": "real",
+    "duration": 3.06,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_31678.mp3",
+    "sha256": "edd7a17503a795e5e7a0654eb9a2f410af3244981eeab4bd9390584a4b9fc75a"
+  },
+  {
+    "id": "ITW_10614",
+    "title": "JFK",
+    "label": "synthetic",
+    "duration": 2.35,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_10614.mp3",
+    "sha256": "b1701ac6801a1185b76e781d61597a1e610326739cb493ca78bc366823a9a326"
+  },
+  {
+    "id": "ITW_21965",
+    "title": "JFK",
+    "label": "synthetic",
+    "duration": 3.5,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_21965.mp3",
+    "sha256": "6d77f3e89a10605ab0c5071361779c8f3ee26b5675e07a3cec93794cf214ceee"
+  },
+  {
+    "id": "ITW_24177",
+    "title": "JFK",
+    "label": "synthetic",
+    "duration": 2.83,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_24177.mp3",
+    "sha256": "83ffa17b9468f1c7e689219f48341b01124eabf3e257637d1d2281c65791f6dd"
+  },
+  {
+    "id": "ITW_4163",
+    "title": "JFK",
+    "label": "synthetic",
+    "duration": 3.29,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_4163.mp3",
+    "sha256": "69e558275a2ddfe0a4f71f791f104d25cc6f2ddfc553464b447e3bbe687620fd"
+  },
+  {
+    "id": "gs_po_0010_part_001",
+    "title": "Amazon Polly 1",
+    "label": "synthetic",
+    "duration": 4.2,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/garystafford/deepfake-audio-detection",
+    "file": "samples/library/gs_po_0010_part_001.mp3",
+    "sha256": "bff5f326967f3ec92aea8d049cf8cd970e323b47af54e7f4fc69a936bcb1d4a0"
+  },
+  {
+    "id": "gs_po_0028_part_002",
+    "title": "Amazon Polly 2",
+    "label": "synthetic",
+    "duration": 3.71,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/garystafford/deepfake-audio-detection",
+    "file": "samples/library/gs_po_0028_part_002.mp3",
+    "sha256": "39fd543292707d141936b4a6babe0234e20b4c3c9ab46a138479751e7c79b457"
+  },
+  {
+    "id": "gs_el_0009_part_003",
+    "title": "ElevenLabs 1",
+    "label": "synthetic",
+    "duration": 3.69,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/garystafford/deepfake-audio-detection",
+    "file": "samples/library/gs_el_0009_part_003.mp3",
+    "sha256": "b9766549ff2837a65b4c2a7581827e7cd8923b7050c27abeccca535caf6aaca0"
+  },
+  {
+    "id": "gs_el_0010_part_002",
+    "title": "ElevenLabs 2",
+    "label": "synthetic",
+    "duration": 3.0,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/garystafford/deepfake-audio-detection",
+    "file": "samples/library/gs_el_0010_part_002.mp3",
+    "sha256": "7d4d02be0ac1f7d99c8dfd10be8ef06c547f2d86315e1def2cc9f8e56458a10a"
+  },
+  {
+    "id": "gs_el_0009_part_001",
+    "title": "ElevenLabs 3",
+    "label": "synthetic",
+    "duration": 3.15,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/garystafford/deepfake-audio-detection",
+    "file": "samples/library/gs_el_0009_part_001.mp3",
+    "sha256": "c66b911c94a919b5bffc6429ea58e6abae077f64b2e4a3e2a80b26aece92b26f"
+  },
+  {
+    "id": "gs_el_0010_part_003",
+    "title": "ElevenLabs 4",
+    "label": "synthetic",
+    "duration": 3.02,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/garystafford/deepfake-audio-detection",
+    "file": "samples/library/gs_el_0010_part_003.mp3",
+    "sha256": "f6e2e8f0d65c3dc95d75247d73013b2716a1f29e54537dd3290246d81522cfdd"
+  },
+  {
+    "id": "gs_el_0008_part_001",
+    "title": "ElevenLabs 5",
+    "label": "synthetic",
+    "duration": 4.18,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/garystafford/deepfake-audio-detection",
+    "file": "samples/library/gs_el_0008_part_001.mp3",
+    "sha256": "f9bd4faed2b20fa24e9e718054f3260c38c6d01c21625465903a4685f201eb48"
+  },
+  {
+    "id": "wp_el_19_c0",
+    "title": "ElevenLabs Multilingual v2 1",
+    "label": "synthetic",
+    "duration": 5.92,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/WpythonW/elevenlabs_multilingual_v2-technical-speech",
+    "file": "samples/library/wp_el_19_c0.mp3",
+    "sha256": "0d50e0e2c05c8c3a09ff86437a8181dfd67ccc2f69f424b26189d8ba2de6c80d"
+  },
+  {
+    "id": "wp_el_14_c0",
+    "title": "ElevenLabs Multilingual v2 2",
+    "label": "synthetic",
+    "duration": 5.89,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/WpythonW/elevenlabs_multilingual_v2-technical-speech",
+    "file": "samples/library/wp_el_14_c0.mp3",
+    "sha256": "17da3be892d70c74312c2ddebebe0fb81b18b7dff40a811f3d34882faace3a97"
+  },
+  {
+    "id": "wp_el_15_c0",
+    "title": "ElevenLabs Multilingual v2 3",
+    "label": "synthetic",
+    "duration": 5.88,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/WpythonW/elevenlabs_multilingual_v2-technical-speech",
+    "file": "samples/library/wp_el_15_c0.mp3",
+    "sha256": "44b94bd90753b1a7d64516aa02ead6982acbf22413214dc4345a3a9209c84a6f"
+  },
+  {
+    "id": "fl_362046675404647036",
+    "title": "FLEURS volunteers 1",
+    "label": "real",
+    "duration": 5.26,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/google/fleurs",
+    "file": "samples/library/fl_362046675404647036.mp3",
+    "sha256": "ef13885531feec6b2a126257fc695c9d646d882931d9a81d411ade3dec5c0a71"
+  },
+  {
+    "id": "fl_2842775607363710885",
+    "title": "FLEURS volunteers 2",
+    "label": "real",
+    "duration": 5.5,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/google/fleurs",
+    "file": "samples/library/fl_2842775607363710885.mp3",
+    "sha256": "bc050059810b84b5ffcc8be57b8fe0b559220f30495eebe6cad1222553fd46bb"
+  },
+  {
+    "id": "fl_11909868287041540501",
+    "title": "FLEURS volunteers 3",
+    "label": "real",
+    "duration": 6.58,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/google/fleurs",
+    "file": "samples/library/fl_11909868287041540501.mp3",
+    "sha256": "821b6ee875cf181d3d1b075e4258eba01a2fd2e647d520c4433215160d2f23af"
+  },
+  {
+    "id": "gs_hu_0005_part_006",
+    "title": "Hume AI 1",
+    "label": "synthetic",
+    "duration": 3.17,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/garystafford/deepfake-audio-detection",
+    "file": "samples/library/gs_hu_0005_part_006.mp3",
+    "sha256": "0d1496c317d71d2d70dc6f4624ce3322e8c19e17b83d851e8aad18a613785525"
+  },
+  {
+    "id": "gs_hu_0005_part_005",
+    "title": "Hume AI 2",
+    "label": "synthetic",
+    "duration": 3.25,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/garystafford/deepfake-audio-detection",
+    "file": "samples/library/gs_hu_0005_part_005.mp3",
+    "sha256": "8295209e2b495bc6549f84644f5bfff36a3b2b7e0f924a496b6be3437a5e9d27"
+  },
+  {
+    "id": "gs_hg_0004_part_002",
+    "title": "Kokoro 1",
+    "label": "synthetic",
+    "duration": 5.61,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/garystafford/deepfake-audio-detection",
+    "file": "samples/library/gs_hg_0004_part_002.mp3",
+    "sha256": "c4b2b9ec0273dd3f4a60b5f988f893a7f021c0ad253d30bee468c0f4065f0c06"
+  },
+  {
+    "id": "gs_hg_0004_part_001",
+    "title": "Kokoro 2",
+    "label": "synthetic",
+    "duration": 4.16,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/garystafford/deepfake-audio-detection",
+    "file": "samples/library/gs_hg_0004_part_001.mp3",
+    "sha256": "28f365c8347cad10d7630121ac6345cfc78e1e9818864b9961980d46ecece89c"
+  },
+  {
+    "id": "ls_8455-210777-0040",
+    "title": "LibriSpeech readers 1",
+    "label": "real",
+    "duration": 5.16,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/openslr/librispeech_asr",
+    "file": "samples/library/ls_8455-210777-0040.mp3",
+    "sha256": "e0b843f9c6c1d960a385755cfc2ac5469983a8fb677c53feb15be8656ea31dc9"
+  },
+  {
+    "id": "ls_1089-134686-0008",
+    "title": "LibriSpeech readers 2",
+    "label": "real",
+    "duration": 5.88,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/openslr/librispeech_asr",
+    "file": "samples/library/ls_1089-134686-0008.mp3",
+    "sha256": "fa7491b6d6e5decfe2a51f59471741d405306802e52d87ecca23c2c5059aad30"
+  },
+  {
+    "id": "ls_1089-134686-0036",
+    "title": "LibriSpeech readers 3",
+    "label": "real",
+    "duration": 3.23,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/openslr/librispeech_asr",
+    "file": "samples/library/ls_1089-134686-0036.mp3",
+    "sha256": "18e1094714d50d04f7491409b35fdfce16805aaf3edd7cbc899db4b2a5bea498"
+  },
+  {
+    "id": "gs_lv_0003_part_002",
+    "title": "Luvvoice",
+    "label": "synthetic",
+    "duration": 4.58,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/garystafford/deepfake-audio-detection",
+    "file": "samples/library/gs_lv_0003_part_002.mp3",
+    "sha256": "47198be3a05adef9c84d3fed231d7c098383f077e02891eae4d2e685d718d0a1"
+  },
+  {
+    "id": "gs_sp_0001_part_014",
+    "title": "Speechify 1",
+    "label": "synthetic",
+    "duration": 4.53,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/garystafford/deepfake-audio-detection",
+    "file": "samples/library/gs_sp_0001_part_014.mp3",
+    "sha256": "b830ef7ae6c075bc3b14e57c9d26d639639d6b3e0c2fa85788dcbfcbce8fc5e8"
+  },
+  {
+    "id": "gs_sp_0001_part_013",
+    "title": "Speechify 2",
+    "label": "synthetic",
+    "duration": 3.0,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/garystafford/deepfake-audio-detection",
+    "file": "samples/library/gs_sp_0001_part_013.mp3",
+    "sha256": "4abfac882bd9c8bf28d9d7a12d6ef9b2a68786e1d061babb921149c7694dd64b"
+  },
+  {
+    "id": "gs_yt_0012_part_029",
+    "title": "YouTube speech 1",
+    "label": "real",
+    "duration": 3.23,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/garystafford/deepfake-audio-detection",
+    "file": "samples/library/gs_yt_0012_part_029.mp3",
+    "sha256": "2f96e1e299c3782414e0c933e1bec682fb11ffc4fa5cfe0a830afd8d48818ae2"
+  },
+  {
+    "id": "gs_yt_0011_p2_part_177",
+    "title": "YouTube speech 2",
+    "label": "real",
+    "duration": 6.82,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/garystafford/deepfake-audio-detection",
+    "file": "samples/library/gs_yt_0011_p2_part_177.mp3",
+    "sha256": "629fd45190235dda45d641d459fdb8d57d4e5d76542b43b7fca37351f5270ee8"
+  },
+  {
+    "id": "gs_yt_0005_part_015",
+    "title": "YouTube speech 3",
+    "label": "real",
+    "duration": 3.62,
+    "collection": "Modern speech",
+    "source": "https://huggingface.co/datasets/garystafford/deepfake-audio-detection",
+    "file": "samples/library/gs_yt_0005_part_015.mp3",
+    "sha256": "c2b35b4af3ceebcc44cd601d24aeed89b3dbf36dbe003c8350e65c9f55c6cb30"
+  },
+  {
+    "id": "ITW_15004",
+    "title": "Alan Watts",
+    "label": "real",
+    "duration": 3.17,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_15004.mp3",
+    "sha256": "a0afb8ac4c0c47ea006402ff876f162228576628ff1742f9f1c64f4595cb8a33"
+  },
+  {
+    "id": "ITW_18174",
+    "title": "Alan Watts",
+    "label": "real",
+    "duration": 3.0,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_18174.mp3",
+    "sha256": "f8898ee585f7aa45c4a6ea6eb2a57b4ff430765a3adcb827c7c0194f380ba660"
+  },
+  {
+    "id": "ITW_2100",
+    "title": "Alan Watts",
+    "label": "real",
+    "duration": 3.71,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_2100.mp3",
+    "sha256": "59ca42d765aa522c2ce7b005394cb6efa7fd741d2c4b75750f3b910338f07e05"
+  },
+  {
+    "id": "ITW_23143",
+    "title": "Alan Watts",
+    "label": "real",
+    "duration": 1.93,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_23143.mp3",
+    "sha256": "c6b49b4dd375da537f21a8254e26a22becdb70575eeab20209ea865c2ab44277"
+  },
+  {
+    "id": "ITW_9362",
+    "title": "Alan Watts",
+    "label": "real",
+    "duration": 1.59,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_9362.mp3",
+    "sha256": "befecff563707becb70a3d9785a4d60a9d7db0b517589464f3bdefa77881eed2"
+  },
+  {
+    "id": "ITW_17816",
+    "title": "Alan Watts",
+    "label": "synthetic",
+    "duration": 2.42,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_17816.mp3",
+    "sha256": "68ce088432ad9111266d7292225ace54e59e14504b132535e5e510a3daebe1ce"
+  },
+  {
+    "id": "ITW_25055",
+    "title": "Alan Watts",
+    "label": "synthetic",
+    "duration": 5.3,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_25055.mp3",
+    "sha256": "81ab472b6dd3be2ce79f8e3194b3c50b548e7a11f68ba1c219f37efcfee171e7"
+  },
+  {
+    "id": "ITW_28871",
+    "title": "Alan Watts",
+    "label": "synthetic",
+    "duration": 3.23,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_28871.mp3",
+    "sha256": "58336ee041ebc68e1aad717dd34b6a9004727860470f56d848a4ebb6baac29be"
+  },
+  {
+    "id": "ITW_3092",
+    "title": "Alan Watts",
+    "label": "synthetic",
+    "duration": 2.9,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_3092.mp3",
+    "sha256": "0587b2bc051d44f004b0d30b3d6ea6f875388f8c69548b0bf840d99e301d1fe5"
+  },
+  {
+    "id": "ITW_5512",
+    "title": "Alan Watts",
+    "label": "synthetic",
+    "duration": 2.62,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_5512.mp3",
+    "sha256": "f5c72da0e4250f2430685784abe699ba8b073b736cd18bf29cf72790ca440292"
+  },
+  {
+    "id": "ITW_13943",
+    "title": "Donald Trump",
+    "label": "real",
+    "duration": 4.04,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_13943.mp3",
+    "sha256": "d876799262346513840dff7ff9947e02724db933f188ed113d8da93bf550ddc5"
+  },
+  {
+    "id": "ITW_16379",
+    "title": "Donald Trump",
+    "label": "real",
+    "duration": 6.7,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_16379.mp3",
+    "sha256": "bd802e76fdaa1ec68117ab4e7ea1e63098f21c730f0162a8a9f0a3cac130f72c"
+  },
+  {
+    "id": "ITW_31624",
+    "title": "Donald Trump",
+    "label": "real",
+    "duration": 3.58,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_31624.mp3",
+    "sha256": "9235a91a911de28a38fc21855c99db2a40f469f30561d6b6cceeaaad78e9a46e"
+  },
+  {
+    "id": "ITW_4623",
+    "title": "Donald Trump",
+    "label": "real",
+    "duration": 6.43,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_4623.mp3",
+    "sha256": "8611d5092ef5754a55c04b510b9c578bc83151fa91a03a4627f92e2a77ee5c0f"
+  },
+  {
+    "id": "ITW_17798",
+    "title": "Donald Trump",
+    "label": "synthetic",
+    "duration": 2.5,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_17798.mp3",
+    "sha256": "389047840c70b9aba3bef01ebbdf7ccbf6cd4074b92bf7284b81b9dc0a715e64"
+  },
+  {
+    "id": "ITW_23070",
+    "title": "Donald Trump",
+    "label": "synthetic",
+    "duration": 3.81,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_23070.mp3",
+    "sha256": "4f894745fecc63215b6ff68a9f55f1451ecad9c5a9a1904047ab4c283b94f311"
+  },
+  {
+    "id": "ITW_28022",
+    "title": "Donald Trump",
+    "label": "synthetic",
+    "duration": 4.13,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_28022.mp3",
+    "sha256": "eb8138d98bbdf4a634a8b0b73e06837575e41e0c9974a4773a9cad6c5cc032ad"
+  },
+  {
+    "id": "ITW_28786",
+    "title": "Donald Trump",
+    "label": "synthetic",
+    "duration": 4.0,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_28786.mp3",
+    "sha256": "9d70e8f70b45c0ff83393cec681062f83737a033d2e6af4d1723b2e361d8fd28"
+  },
+  {
+    "id": "ITW_10823",
+    "title": "FDR",
+    "label": "real",
+    "duration": 3.25,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_10823.mp3",
+    "sha256": "0c1c9858bba12772e6f45ea6c8086372275264096c345d78027ed29613586d21"
+  },
+  {
+    "id": "ITW_16540",
+    "title": "FDR",
+    "label": "real",
+    "duration": 4.18,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_16540.mp3",
+    "sha256": "e802e91eadbdd23e08fa959ed0c97e4cbb58f872f5b71360d9542beadd6d10a6"
+  },
+  {
+    "id": "ITW_27271",
+    "title": "FDR",
+    "label": "real",
+    "duration": 2.79,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_27271.mp3",
+    "sha256": "4977ede59926f7b834819abf20e53336c72b9939cae60a15dbb2b5cda7440036"
+  },
+  {
+    "id": "ITW_25241",
+    "title": "FDR",
+    "label": "synthetic",
+    "duration": 5.92,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_25241.mp3",
+    "sha256": "a3d302bd52d59977b58802b86e45c8c5647bdd2090cbc0740ffb1cbd2dea6eca"
+  },
+  {
+    "id": "ITW_26381",
+    "title": "FDR",
+    "label": "synthetic",
+    "duration": 3.31,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_26381.mp3",
+    "sha256": "d28a519cc7db063b4fb25d741bfd7f2c8533e9b91cff92cc59b0d1647f70d5d9"
+  },
+  {
+    "id": "ITW_31126",
+    "title": "FDR",
+    "label": "synthetic",
+    "duration": 6.21,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_31126.mp3",
+    "sha256": "95e436163e583b3138c5e20419ea8f6863cf46acd9acb39b29ccfc2fec4f07ad"
+  },
+  {
+    "id": "ITW_13856",
+    "title": "Frank Sinatra",
+    "label": "real",
+    "duration": 6.0,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_13856.mp3",
+    "sha256": "cf4e3526cc1899d1bf74b5903988a2d8cb0223f220342715dadab19b74496840"
+  },
+  {
+    "id": "ITW_22471",
+    "title": "Frank Sinatra",
+    "label": "real",
+    "duration": 2.79,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_22471.mp3",
+    "sha256": "3bfbc9d316329136388f658019c457a1be10d100d3c0745267d7597d19e2cbad"
+  },
+  {
+    "id": "ITW_1575",
+    "title": "Frank Sinatra",
+    "label": "synthetic",
+    "duration": 3.69,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_1575.mp3",
+    "sha256": "df86d1cd73931dfe41e4a1f30cc485de836d81aef9add515022892ce5181fb36"
+  },
+  {
+    "id": "ITW_231",
+    "title": "Frank Sinatra",
+    "label": "synthetic",
+    "duration": 5.99,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_231.mp3",
+    "sha256": "d07cf76f5bf787ee6fc7592f94c4917a8fad1a4039783a793ec8f9248a3a885d"
+  },
+  {
+    "id": "ITW_12948",
+    "title": "George W. Bush",
+    "label": "real",
+    "duration": 3.98,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_12948.mp3",
+    "sha256": "323eee40c6d40226d68b581a558b1ce4580194498f2a8d365a3cf47861d44d2e"
+  },
+  {
+    "id": "ITW_22583",
+    "title": "George W. Bush",
+    "label": "real",
+    "duration": 3.5,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_22583.mp3",
+    "sha256": "c5297320f24c9313609f663023faeb047fe2cb327ee11c9dadfb779c3bec14e6"
+  },
+  {
+    "id": "ITW_23060",
+    "title": "George W. Bush",
+    "label": "real",
+    "duration": 4.64,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_23060.mp3",
+    "sha256": "26e81d5a8e55517a7e5a738c802590aa24b9028e6d22c2b5d4698b9905c03dda"
+  },
+  {
+    "id": "ITW_6034",
+    "title": "George W. Bush",
+    "label": "real",
+    "duration": 3.12,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_6034.mp3",
+    "sha256": "ed6490768737f1fcb9783dd68d4cde9d8114be830101cf3c6dee13cdff2e7053"
+  },
+  {
+    "id": "ITW_6445",
+    "title": "George W. Bush",
+    "label": "real",
+    "duration": 6.82,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_6445.mp3",
+    "sha256": "e6841007541cafd49f0f75668cac235ddf1c3674ba921987350ed19caef3b72e"
+  },
+  {
+    "id": "ITW_11894",
+    "title": "George W. Bush",
+    "label": "synthetic",
+    "duration": 4.08,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_11894.mp3",
+    "sha256": "af17ec06573c7ca64299ea14961040d5ab39b82dc076dd9715af3ee752470df4"
+  },
+  {
+    "id": "ITW_2240",
+    "title": "George W. Bush",
+    "label": "synthetic",
+    "duration": 4.29,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_2240.mp3",
+    "sha256": "6a7d11c95895abafeada2bcda9f91394b423be604c5f45f8678bfc6d0d5570a2"
+  },
+  {
+    "id": "ITW_24195",
+    "title": "George W. Bush",
+    "label": "synthetic",
+    "duration": 2.58,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_24195.mp3",
+    "sha256": "79c43e778af000329489863d6ed721177f9b5d5552f7903c37d4d6b728fc2fc3"
+  },
+  {
+    "id": "ITW_28600",
+    "title": "George W. Bush",
+    "label": "synthetic",
+    "duration": 3.06,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_28600.mp3",
+    "sha256": "1017c7c315bb2a9b9ea8c658768a2a2412940d3b78c364d1fb32dbe313a95a4f"
+  },
+  {
+    "id": "ITW_29280",
+    "title": "George W. Bush",
+    "label": "synthetic",
+    "duration": 6.45,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_29280.mp3",
+    "sha256": "e69defc203e4a0cee9a3de62c0f1df760e685b4927750c32fd9b60ea698baf72"
+  },
+  {
+    "id": "ITW_1331",
+    "title": "Gilbert Gottfried",
+    "label": "real",
+    "duration": 2.13,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_1331.mp3",
+    "sha256": "da9eab8f56778304c532270b249092bf01fe63515eed544ef436c220c3472af7"
+  },
+  {
+    "id": "ITW_14230",
+    "title": "Gilbert Gottfried",
+    "label": "real",
+    "duration": 2.5,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_14230.mp3",
+    "sha256": "567e297d3a9be313f6733b7acb3ebce064cfeb17d56e9c357beb4ada48b15f55"
+  },
+  {
+    "id": "ITW_442",
+    "title": "Gilbert Gottfried",
+    "label": "real",
+    "duration": 5.21,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_442.mp3",
+    "sha256": "3231f72193ab520bfeca711ed425aa0c88c1e6d174aaa5bba91915cff2c9c247"
+  },
+  {
+    "id": "ITW_9518",
+    "title": "Gilbert Gottfried",
+    "label": "real",
+    "duration": 4.87,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_9518.mp3",
+    "sha256": "644ff9d31fcec2d18fc6ee698224ab8f9f1cfa377b8493a84158fb2396bd4c32"
+  },
+  {
+    "id": "ITW_12748",
+    "title": "Gilbert Gottfried",
+    "label": "synthetic",
+    "duration": 3.98,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_12748.mp3",
+    "sha256": "61ebfc596d95bbfe49ed78a49de16d16bddd50cb9b4449483d2f8cc13091b30b"
+  },
+  {
+    "id": "ITW_28694",
+    "title": "Gilbert Gottfried",
+    "label": "synthetic",
+    "duration": 5.49,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_28694.mp3",
+    "sha256": "6c2e21d0a211cc7a5d140bff963dc4a823fc39321c85f6dac1ef124d22aa570c"
+  },
+  {
+    "id": "ITW_318",
+    "title": "Gilbert Gottfried",
+    "label": "synthetic",
+    "duration": 6.49,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_318.mp3",
+    "sha256": "0b850fa28dfb7b9e0d70cc4143c2f8a09c25c873e0e94d67e484fc2d33d200b3"
+  },
+  {
+    "id": "ITW_905",
+    "title": "Gilbert Gottfried",
+    "label": "synthetic",
+    "duration": 5.28,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_905.mp3",
+    "sha256": "8937b9f8da9d6fdb9b6737b5b7abfb91bd066e1ca75eab12fd1355d3f6971e6c"
+  },
+  {
+    "id": "ITW_5438",
+    "title": "Louis C.K.",
+    "label": "real",
+    "duration": 3.33,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_5438.mp3",
+    "sha256": "e60806dad1427e96c82e51cba621302c4372c01a70a11626c4a60aec8c14c946"
+  },
+  {
+    "id": "ITW_6923",
+    "title": "Louis C.K.",
+    "label": "real",
+    "duration": 5.28,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_6923.mp3",
+    "sha256": "49ebcb8ef82e90f3ad8c52ee672874ca891316cde9328607305b6ebd0dcae1ed"
+  },
+  {
+    "id": "ITW_5699",
+    "title": "Louis C.K.",
+    "label": "synthetic",
+    "duration": 3.33,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_5699.mp3",
+    "sha256": "f822881bfbec98778a781559caf3f4ff8c1c8665e5c46e05911aa336e07ed163"
+  },
+  {
+    "id": "ITW_9016",
+    "title": "Louis C.K.",
+    "label": "synthetic",
+    "duration": 3.12,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_9016.mp3",
+    "sha256": "e2db139d5b360be15b4e82ad1c438322378a2126b4823e770ff048228d50e0b3"
+  },
+  {
+    "id": "ITW_8618",
+    "title": "Mitch Hedberg",
+    "label": "real",
+    "duration": 5.25,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_8618.mp3",
+    "sha256": "66836cc908b239604b5715ef81f811de26ebb3e46ac0b4de99ae7e7c2f92ef00"
+  },
+  {
+    "id": "ITW_29710",
+    "title": "Mitch Hedberg",
+    "label": "synthetic",
+    "duration": 2.06,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_29710.mp3",
+    "sha256": "a5cf8d0631bf2d54898276cca1434e3ab465d34f16a1b349f5de2c81a8deb9af"
+  },
+  {
+    "id": "ITW_16918",
+    "title": "Mr. Rogers",
+    "label": "real",
+    "duration": 3.48,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_16918.mp3",
+    "sha256": "ddbb791958790be5e5b0230467f0e07f4b50b00d840138f998472a8a7515ea5d"
+  },
+  {
+    "id": "ITW_23980",
+    "title": "Mr. Rogers",
+    "label": "real",
+    "duration": 3.25,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_23980.mp3",
+    "sha256": "b3f7fa56b516b2ae734cab0d678c2392a4275439fea0444f1421f9c6d9300406"
+  },
+  {
+    "id": "ITW_30225",
+    "title": "Mr. Rogers",
+    "label": "real",
+    "duration": 4.36,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_30225.mp3",
+    "sha256": "a861f1f1d7f7d3f41258aa56fc57993bcd1b62dd79689b94faa03213b9372567"
+  },
+  {
+    "id": "ITW_1428",
+    "title": "Mr. Rogers",
+    "label": "synthetic",
+    "duration": 2.27,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_1428.mp3",
+    "sha256": "7f6c482eeabdbc5830d65cb1421359a450ee63b8c7fd409d2372691e322dda31"
+  },
+  {
+    "id": "ITW_1559",
+    "title": "Mr. Rogers",
+    "label": "synthetic",
+    "duration": 2.31,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_1559.mp3",
+    "sha256": "25308ea3e6c6793881573eda91c4561e4b528a68a2201d5e47c34a48fc15fc94"
+  },
+  {
+    "id": "ITW_31464",
+    "title": "Mr. Rogers",
+    "label": "synthetic",
+    "duration": 2.27,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_31464.mp3",
+    "sha256": "e78eceb91c4f20bace52a728c3236a1d2757d73648e7781b0709deb3ac73bb7c"
+  },
+  {
+    "id": "ITW_11630",
+    "title": "Nelson Mandela",
+    "label": "real",
+    "duration": 2.77,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_11630.mp3",
+    "sha256": "8815be0f916d31616412a18f8e205609f877033d084236dc7898634c3c9bf64d"
+  },
+  {
+    "id": "ITW_24719",
+    "title": "Nelson Mandela",
+    "label": "real",
+    "duration": 2.77,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_24719.mp3",
+    "sha256": "e48c4bb798c0590adc2e46b655590e81fffe702540492113265a2172721ab4d5"
+  },
+  {
+    "id": "ITW_3552",
+    "title": "Nelson Mandela",
+    "label": "real",
+    "duration": 2.85,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_3552.mp3",
+    "sha256": "771fc9823f5443c0f8eefc652de76d3aa47b5525055f40a5f8dda683072d1e07"
+  },
+  {
+    "id": "ITW_15853",
+    "title": "Nelson Mandela",
+    "label": "synthetic",
+    "duration": 1.86,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_15853.mp3",
+    "sha256": "4893ab15285111eb451f3a89222c3b85dcc374a9cc492f3697929c3c59664322"
+  },
+  {
+    "id": "ITW_17391",
+    "title": "Nelson Mandela",
+    "label": "synthetic",
+    "duration": 2.27,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_17391.mp3",
+    "sha256": "3157ebbe6258c95dc3994fc783ccdf1c2a85e7efdb6c58398a95c333f6c0045f"
+  },
+  {
+    "id": "ITW_6047",
+    "title": "Nelson Mandela",
+    "label": "synthetic",
+    "duration": 2.92,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_6047.mp3",
+    "sha256": "71a1502955b15f4c9213835b7daf376ec5bff62108234adb39190cd9e26005be"
+  },
+  {
+    "id": "ITW_18132",
+    "title": "Orson Welles",
+    "label": "real",
+    "duration": 6.83,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_18132.mp3",
+    "sha256": "64646c139f93f81ccb39244f825df7f3a5fb2040f2ab59874673ec9259f116b4"
+  },
+  {
+    "id": "ITW_25876",
+    "title": "Orson Welles",
+    "label": "real",
+    "duration": 5.68,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_25876.mp3",
+    "sha256": "b85e8871aab61dfeae747e9fcc79d46b5867c6324259cc956f582824b431898f"
+  },
+  {
+    "id": "ITW_27388",
+    "title": "Orson Welles",
+    "label": "real",
+    "duration": 2.69,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_27388.mp3",
+    "sha256": "525fa99b786a1a844f08858c283e5aa01a6ce2d1651e4ce3274fb2312bf0008a"
+  },
+  {
+    "id": "ITW_8504",
+    "title": "Orson Welles",
+    "label": "real",
+    "duration": 4.74,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_8504.mp3",
+    "sha256": "4439daeb8c17605d4d1506c54d5f8b9045ec579e8e76ba4f959e89fbfc426adf"
+  },
+  {
+    "id": "ITW_9805",
+    "title": "Orson Welles",
+    "label": "real",
+    "duration": 5.08,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_9805.mp3",
+    "sha256": "d5f2528c7e572b2592edbc266ff4b51a3380d4faf14e0cf6f6343b9135e14718"
+  },
+  {
+    "id": "ITW_14633",
+    "title": "Orson Welles",
+    "label": "synthetic",
+    "duration": 4.08,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_14633.mp3",
+    "sha256": "cd451b6c4cf9ea63e2a1e6ed7a5ee49ab22880a4f27539b055a647083bfa2d1c"
+  },
+  {
+    "id": "ITW_26134",
+    "title": "Orson Welles",
+    "label": "synthetic",
+    "duration": 3.12,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_26134.mp3",
+    "sha256": "47b73433660e4ff7cf19f7481d640705d09cbaf8a079d856e0e0e3bfcad16356"
+  },
+  {
+    "id": "ITW_28918",
+    "title": "Orson Welles",
+    "label": "synthetic",
+    "duration": 3.17,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_28918.mp3",
+    "sha256": "b9af3277522a8db0a410305caefffc2a6d39ed81e6397480c86f5dfe7c5fa612"
+  },
+  {
+    "id": "ITW_30039",
+    "title": "Orson Welles",
+    "label": "synthetic",
+    "duration": 2.67,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_30039.mp3",
+    "sha256": "cb49cf30360e02dd5b4d6c7f2d5fa46caeb091d05baf38138dc6621e5ed337f4"
+  },
+  {
+    "id": "ITW_9249",
+    "title": "Orson Welles",
+    "label": "synthetic",
+    "duration": 2.69,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_9249.mp3",
+    "sha256": "116ffeeb5451283fcc74630537f740cc018098ee7c61c840645742d360781157"
+  },
+  {
+    "id": "ITW_12489",
+    "title": "The Notorious B.I.G.",
+    "label": "real",
+    "duration": 3.56,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_12489.mp3",
+    "sha256": "52fabdf65b5c061ac8c97ca96ca9a874954cd9cdf9e93d705d7d2657b9e37848"
+  },
+  {
+    "id": "ITW_19265",
+    "title": "The Notorious B.I.G.",
+    "label": "real",
+    "duration": 2.71,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_19265.mp3",
+    "sha256": "e5095e37eb261ee4b71ad88b54e0f3b4c267329b12d87fb69dcd2b1b76825ec6"
+  },
+  {
+    "id": "ITW_26161",
+    "title": "The Notorious B.I.G.",
+    "label": "real",
+    "duration": 2.71,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_26161.mp3",
+    "sha256": "b1954ffa5ecaecdd672e7e7e5a94fa0c02f46e92c9d9fd3e22ccc96a80ee14fc"
+  },
+  {
+    "id": "ITW_4852",
+    "title": "The Notorious B.I.G.",
+    "label": "real",
+    "duration": 2.83,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_4852.mp3",
+    "sha256": "e3ad999810193906e5dc3a8cf81d3ba494a2d5bb3a3049a32200ab1960c67c51"
+  },
+  {
+    "id": "ITW_9670",
+    "title": "The Notorious B.I.G.",
+    "label": "real",
+    "duration": 2.56,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_9670.mp3",
+    "sha256": "622ab805443e6ac794c317c524493a148063761fea40936914fa84860133bf16"
+  },
+  {
+    "id": "ITW_10043",
+    "title": "The Notorious B.I.G.",
+    "label": "synthetic",
+    "duration": 3.15,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_10043.mp3",
+    "sha256": "9a9c10bde6d56bf542bd64aca5cedb22717657d77ddf0f9059414e321ec89219"
+  },
+  {
+    "id": "ITW_18168",
+    "title": "The Notorious B.I.G.",
+    "label": "synthetic",
+    "duration": 4.0,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_18168.mp3",
+    "sha256": "338aebc47794aade8a05ce2aee9d25bf9d422f4307ae90ca663a56675b8bc73e"
+  },
+  {
+    "id": "ITW_20693",
+    "title": "The Notorious B.I.G.",
+    "label": "synthetic",
+    "duration": 2.88,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_20693.mp3",
+    "sha256": "f16c4c9199d1e77832eed6eab8146ae14e5987907f31a830e9af81446522f62b"
+  },
+  {
+    "id": "ITW_27588",
+    "title": "The Notorious B.I.G.",
+    "label": "synthetic",
+    "duration": 6.66,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_27588.mp3",
+    "sha256": "60bc5ea5d5e0d35b702ffb5adcb31a3ced0469f9b8f4cecfa7b6d0cff33f2fe5"
+  },
+  {
+    "id": "ITW_2982",
+    "title": "The Notorious B.I.G.",
+    "label": "synthetic",
+    "duration": 3.4,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_2982.mp3",
+    "sha256": "3d47192557412cd671335174c3b43d586be07e8d76b2466aed061c379adae5e1"
+  },
+  {
+    "id": "ITW_6018",
+    "title": "William F. Buckley",
+    "label": "real",
+    "duration": 6.74,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_6018.mp3",
+    "sha256": "79c9e1f616a6488fbf42bd3cf5ee0b4fe04f2d72e79bd2b04c997aa7e062e211"
+  },
+  {
+    "id": "ITW_9532",
+    "title": "William F. Buckley",
+    "label": "real",
+    "duration": 5.64,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_9532.mp3",
+    "sha256": "95920ce47e925a6783e370a56ae0ca36b2061dff491cb82a94129f974440c7c5"
+  },
+  {
+    "id": "ITW_29143",
+    "title": "William F. Buckley",
+    "label": "synthetic",
+    "duration": 2.9,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_29143.mp3",
+    "sha256": "9e23de5eebd0ea917f40d33c7b37c5486e15c329d49394f43becc483c484fdb0"
+  },
+  {
+    "id": "ITW_9131",
+    "title": "William F. Buckley",
+    "label": "synthetic",
+    "duration": 2.65,
+    "collection": "Public figures",
+    "source": "https://huggingface.co/datasets/SpeechAntiSpoofingBenchmarks/InTheWild",
+    "file": "samples/library/ITW_9131.mp3",
+    "sha256": "a47c766fc391439ee66890ab012e4f60963e764a61d20ec72816b1b8f9d39bca"
+  }
+]

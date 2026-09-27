@@ -7,3 +7,7 @@ select{display:block;width:100%;padding:13px;margin:10px 0 18px;border:1px solid
 
 /* Analysis-mode controls. */
 #mode-picker{border:0;padding:0;margin:20px 0 10px}#mode-picker legend{font-weight:700;margin-bottom:12px}.mode-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.mode-card{position:relative;border:1px solid #41506c;border-radius:10px;padding:17px;cursor:pointer;background:#0b1020}.mode-card input{margin:0 9px 0 0;accent-color:#88e6d2}.mode-card strong{font-size:17px}.mode-card span,.mode-card small{display:block;margin-top:8px;line-height:1.45;color:#b9c6dc}.mode-card small{font-size:12px}.mode-card:has(input:checked){border-color:#88e6d2;background:#173432;box-shadow:0 0 0 1px #88e6d2}.mode-card:has(input:focus-visible){outline:3px solid #b1c9ff;outline-offset:3px}.mode-card:has(input:disabled){opacity:.5;cursor:not-allowed}#custom-models[hidden]{display:none}@media(max-width:540px){.mode-options{grid-template-columns:1fr}}
+
+.sample-library { margin: 1.5rem 0; padding: 1rem; border: 1px solid #334155; border-radius: 12px; }
+.sample-library audio { width: 100%; margin-top: .5rem; }
+.sample-library select { width: 100%; }
